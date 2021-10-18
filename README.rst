@@ -2,7 +2,11 @@
 .. image:: https://raw.githubusercontent.com/Nekmo/telegram-upload/master/logo.png
     :width: 100%
 
-|
+|# telegramclonebot
+Moded by Thant Zin Myo
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/thantzinmyothant1/telegram-upload)
+
 
 
 .. image:: https://img.shields.io/travis/Nekmo/telegram-upload.svg?style=flat-square&maxAge=2592000
